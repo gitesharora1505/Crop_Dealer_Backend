@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crop_Dealer", "Crop_Dealer\Crop_Dealer.csproj", "{D131C50C-AE2C-4698-96AC-3EE139086366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D131C50C-AE2C-4698-96AC-3EE139086366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D131C50C-AE2C-4698-96AC-3EE139086366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D131C50C-AE2C-4698-96AC-3EE139086366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D131C50C-AE2C-4698-96AC-3EE139086366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7290993-1F1A-4BED-8E4A-08F7B2C2D79E}
+	EndGlobalSection
+EndGlobal
